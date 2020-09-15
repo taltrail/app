@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.02797da0.chunk.css",
-    "main.js": "/app/static/js/main.f224a76e.chunk.js",
-    "main.js.map": "/app/static/js/main.f224a76e.chunk.js.map",
+    "main.css": "/app/static/css/main.982536da.chunk.css",
+    "main.js": "/app/static/js/main.1411e9c2.chunk.js",
+    "main.js.map": "/app/static/js/main.1411e9c2.chunk.js.map",
     "runtime-main.js": "/app/static/js/runtime-main.9aa1f20b.js",
     "runtime-main.js.map": "/app/static/js/runtime-main.9aa1f20b.js.map",
     "static/css/2.5a23dfe0.chunk.css": "/app/static/css/2.5a23dfe0.chunk.css",
-    "static/js/2.c171705a.chunk.js": "/app/static/js/2.c171705a.chunk.js",
-    "static/js/2.c171705a.chunk.js.map": "/app/static/js/2.c171705a.chunk.js.map",
+    "static/js/2.f052afec.chunk.js": "/app/static/js/2.f052afec.chunk.js",
+    "static/js/2.f052afec.chunk.js.map": "/app/static/js/2.f052afec.chunk.js.map",
     "index.html": "/app/index.html",
-    "precache-manifest.338630bf67064eead6ef143a7d8e3cf9.js": "/app/precache-manifest.338630bf67064eead6ef143a7d8e3cf9.js",
+    "precache-manifest.003772ea51776ea6d370c621e86fe428.js": "/app/precache-manifest.003772ea51776ea6d370c621e86fe428.js",
     "service-worker.js": "/app/service-worker.js",
     "static/css/2.5a23dfe0.chunk.css.map": "/app/static/css/2.5a23dfe0.chunk.css.map",
-    "static/css/main.02797da0.chunk.css.map": "/app/static/css/main.02797da0.chunk.css.map",
-    "static/js/2.c171705a.chunk.js.LICENSE.txt": "/app/static/js/2.c171705a.chunk.js.LICENSE.txt",
+    "static/css/main.982536da.chunk.css.map": "/app/static/css/main.982536da.chunk.css.map",
+    "static/js/2.f052afec.chunk.js.LICENSE.txt": "/app/static/js/2.f052afec.chunk.js.LICENSE.txt",
     "static/media/1.png": "/app/static/media/1.b378aaaa.png",
     "static/media/David.jpg": "/app/static/media/David.9766ea2d.jpg",
     "static/media/amazon.jpg": "/app/static/media/amazon.e34f255b.jpg",
     "static/media/facebook.png": "/app/static/media/facebook.f10a3037.png",
+    "static/media/logo.svg": "/app/static/media/logo.5d5d9eef.svg",
     "static/media/microsoft.jpg": "/app/static/media/microsoft.ee4c8d9f.jpg",
     "static/media/styles.css": "/app/static/media/revicons.2feb69cc.eot",
     "static/media/taltrail.jpg": "/app/static/media/taltrail.34715858.jpg",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.9aa1f20b.js",
     "static/css/2.5a23dfe0.chunk.css",
-    "static/js/2.c171705a.chunk.js",
-    "static/css/main.02797da0.chunk.css",
-    "static/js/main.f224a76e.chunk.js"
+    "static/js/2.f052afec.chunk.js",
+    "static/css/main.982536da.chunk.css",
+    "static/js/main.1411e9c2.chunk.js"
   ]
 }
